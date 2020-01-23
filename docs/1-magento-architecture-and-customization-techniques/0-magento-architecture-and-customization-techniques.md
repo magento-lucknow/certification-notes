@@ -7,17 +7,28 @@
 - how registered when not in composer - project composer.json autoload/files[] = app/etc/NonComposerComponentRegistration.php
 
     app/code/*/*/cli_commands.php, registration.php
+    
     app/design/*/*/*/registration.php
+    
     app/i18n/*/*/registration.php
+    
     lib/internal/*/*/registration.php
+    
     lib/internal/*/*/*/registration.php
 
-pub/index.php
-app/bootstrap.php
-app/autoload.php
-vendor/autoload.php
-vendor/module[]/registration.php -- last step in Composer init
-Magento\Framework\Component\ComponentRegistrar::register(type='module', name='Prince_Productattach', path='/var/www/...')
+- Auto load flow
+
+    pub/index.php
+    
+    app/bootstrap.php
+    
+    app/autoload.php
+    
+    vendor/autoload.php
+    
+    vendor/module[]/registration.php -- last step in Composer init
+    
+    Magento\Framework\Component\ComponentRegistrar::register(type='module', name='Prince_Productattach', path='/var/www/...')
 
 How do different modules interact with each other?
 - composer require
