@@ -1,3 +1,16 @@
 # Magento Certification Notes
 
 Try https://magento-lucknow.github.io/certification-notes/
+   
+#### Setup
+
+- Pull the project
+- Install `npm i docsify-cli -g`
+- Run `docsify serve docs`
+- Open http://localhost:3000/
+
+#### For Contributing
+
+- Clone the repo to your account
+- Make changes in new branch and push to your account
+- Navigate to this original repo and create a Pull Request with your branch to master.

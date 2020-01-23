@@ -1,6 +1,6 @@
 <!-- _coverpage.md -->
 
-![logo](media/icon.svg)
+![logo](_media/icon.svg)
 
 # Magento Certification Notes <small>0.0.1</small>
 
