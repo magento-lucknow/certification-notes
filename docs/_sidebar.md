@@ -21,3 +21,9 @@
     - [2.3 Demonstrate ability to customize request routing](2-request-flow-processing/3-demonstrate-ability-to-customize-request-routing.md)
     - [2.4 Determine the layout initialization process](2-request-flow-processing/4-determine-the-layout-initialization-process.md)
     
++ [3. Customizing the Magento UI](3-customizing-the-magento-ui/1-demonstrate-ability-to-utilize-themes-and-the-template-structure.md)
+
+    - [3.1 Demonstrate ability to utilize themes and the template structure](3-customizing-the-magento-ui/1-demonstrate-ability-to-utilize-themes-and-the-template-structure.md)    
+    - [3.2 Determine how to use blocks](3-customizing-the-magento-ui/2-determine-how-to-use-blocks.md)    
+    - [3.3 Demonstrate ability to use layout and XML schema](3-customizing-the-magento-ui/3-demonstrate-ability-to-use-layout-and-xml-schema.md)    
+    - [3.4 Utilize JavaScript in Magento](3-customizing-the-magento-ui/4-utilize-javascript-in-magento.md)    
