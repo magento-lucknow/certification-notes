@@ -11,6 +11,7 @@
 - `config.xml` - defaults
 - `crontab.xml` - group[], job instance, method, schedule [*](https://github.com/magento-notes/magento2-exam-notes/blob/master/1.%20Magento%20Architecture%20and%20Customization%20Techniques/6.%20Configure%20event%20observers%20and%20scheduled%20jobs.md#crontabxml)
 - `cron_groups.xml` [*](https://github.com/magento-notes/magento2-exam-notes/blob/master/1.%20Magento%20Architecture%20and%20Customization%20Techniques/6.%20Configure%20event%20observers%20and%20scheduled%20jobs.md#cron-groups)
+- `db_schema.xml` - declarative schema replacement for setup scripts (2.3.x onwards)
 - `di.xml` - preference, plugins, virtual type [*](https://devdocs.magento.com/guides/v2.2/extension-dev-guide/build/di-xml-file.html)
 - `eav_attributes.xml` - locked entity attributes (global, unique etc.)
 - `email_templates.xml` - id label file type module -- view/frontend/email/name.html

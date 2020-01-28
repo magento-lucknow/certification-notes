@@ -26,4 +26,8 @@
     - [3.1 Demonstrate ability to utilize themes and the template structure](3-customizing-the-magento-ui/1-demonstrate-ability-to-utilize-themes-and-the-template-structure.md)    
     - [3.2 Determine how to use blocks](3-customizing-the-magento-ui/2-determine-how-to-use-blocks.md)    
     - [3.3 Demonstrate ability to use layout and XML schema](3-customizing-the-magento-ui/3-demonstrate-ability-to-use-layout-and-xml-schema.md)    
-    - [3.4 Utilize JavaScript in Magento](3-customizing-the-magento-ui/4-utilize-javascript-in-magento.md)    
+    - [3.4 Utilize JavaScript in Magento](3-customizing-the-magento-ui/4-utilize-javascript-in-magento.md) 
+    
++ [4. Working with Databases in Magento](4-working-with-databases-in-magento/1-demonstrate-ability-to-use-data-related-classes.md)   
+
+    - [4.1 Demonstrate ability to use data-related classes](4-working-with-databases-in-magento/1-demonstrate-ability-to-use-data-related-classes.md)   

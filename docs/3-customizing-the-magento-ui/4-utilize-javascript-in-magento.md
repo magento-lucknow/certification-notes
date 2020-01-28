@@ -61,7 +61,7 @@
 
 - jQuery widget
 
-  ```JS
+  ```js
   {
     $.widget('mage.shippingCart', {
       ... // this.config, this.element
