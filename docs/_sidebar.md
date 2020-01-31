@@ -31,3 +31,37 @@
 + [4. Working with Databases in Magento](4-working-with-databases-in-magento/1-demonstrate-ability-to-use-data-related-classes.md)   
 
     - [4.1 Demonstrate ability to use data-related classes](4-working-with-databases-in-magento/1-demonstrate-ability-to-use-data-related-classes.md)   
+        
++ [5. Using the Entity-Attribute-Value -EAV- Model](5-using-the-entity-attribute-value-eav-model/2-demonstrate-ability-to-use-eav-entity-load-and-save.md)   
+
+    - [5.1 Demonstrate ability to use EAV entity load and save](5-using-the-entity-attribute-value-eav-model/2-demonstrate-ability-to-use-eav-entity-load-and-save.md)   
+            
++ [6. Developing with Adminhtml](6-developing-with-adminhtml/1-describe-common-structure-architecture.md)   
+
+    - [6.1 Describe common structure architecture](6-developing-with-adminhtml/1-describe-common-structure-architecture.md)   
+    - [6.2 Define form and grid widgets](6-developing-with-adminhtml/2-define-form-and-grid-widgets.md)   
+    - [6.3 Utilize ACL to set menu items and permissions](6-developing-with-adminhtml/3-utilize-acl-to-set-menu-items-and-permissions.md)   
+                
++ [7. Customizing the Catalog](7-customizing-the-catalog/1-demonstrate-ability-to-use-products-and-product-types.md)   
+
+    - [7.1 Demonstrate ability to use products and product types](7-customizing-the-catalog/1-demonstrate-ability-to-use-products-and-product-types.md) 
+    - [7.2 Describe price functionality](7-customizing-the-catalog/2-describe-price-functionality.md) 
+    - [7.3 Demonstrate ability to use and customize categories](7-customizing-the-catalog/3-demonstrate-ability-to-use-and-customize-categories.md) 
+    - [7.4 Determine and manage catalog rules](7-customizing-the-catalog/4-determine-and-manage-catalog-rules.md) 
+                    
++ [8. Customizing the Checkout Process](8-customizing-the-checkout-process/1-demonstrate-ability-to-use-quote-quote-item-address-and-shopping-cart-rules-in-checkout.md)   
+
+    - [8.1 Demonstrate ability to use quote, quote item, address, and shopping cart rules in checkout](8-customizing-the-checkout-process/1-demonstrate-ability-to-use-quote-quote-item-address-and-shopping-cart-rules-in-checkout.md)
+    - [8.2 Demonstrate ability to use totals models.md](8-customizing-the-checkout-process/2-demonstrate-ability-to-use-totals-models.md)
+    - [8.3 Demonstrate ability to customize the shopping cart](8-customizing-the-checkout-process/3-demonstrate-ability-to-customize-the-shopping-cart.md)
+    - [8.4 Demonstrate ability to customize shipping and payment methods](8-customizing-the-checkout-process/4-demonstrate-ability-to-customize-shipping-and-payment-methods.md)
+                        
++ [9. Sales Operations](9-sales-operations/1-demonstrate-ability-to-customize-sales-operations.md)   
+
+    - [9.1 Demonstrate ability to customize sales operations](9-sales-operations/1-demonstrate-ability-to-customize-sales-operations.md)
+                            
++ [10. Customer Management](10-customer-management/1-demonstrate-ability-to-customize-my-account.md)   
+
+    - [10.1 Demonstrate ability to customize my account](10-customer-management/1-demonstrate-ability-to-customize-my-account.md)
+    - [10.2 Demonstrate ability to customize customer functionality](10-customer-management/2-demonstrate-ability-to-customize-customer-functionality.md)
+    
