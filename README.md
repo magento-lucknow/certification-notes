@@ -11,7 +11,7 @@ Try https://magento-lucknow.github.io/certification-notes/
 
 #### For Contributing
 
-- Learn GitHub Markdown format (.md) form https://guides.github.com/features/mastering-markdown/
+- Learn GitHub Markdown format (.md) from https://guides.github.com/features/mastering-markdown/
 - Create/Update `.md` file in `docs` folder and add link in `_sidebar.md`
 - Clone the repo to your account
 - Make changes in new branch and push to your account
